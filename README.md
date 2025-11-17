@@ -168,5 +168,3 @@ The real question isn’t whether Coursera is worth it.
 It’s whether you’re learning in the most effective, developer-focused way.  
 
 If not, it may be time to explore the top alternative: Educative.io.
-
-— Stack Overflowed
